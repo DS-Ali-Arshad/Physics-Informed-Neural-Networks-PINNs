@@ -159,8 +159,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 - **Tareq Saeed** — King Abdulaziz University  
 - **Ali Arshad** — Sukkur IBA University  
 
-We thank the Physics‑Informed Neural Networks community (Raissi et al.) for their foundational work.  
-```
-
-
-
+We thank the Physics‑Informed Neural Networks community (Raissi et al.) for their foundational work.
