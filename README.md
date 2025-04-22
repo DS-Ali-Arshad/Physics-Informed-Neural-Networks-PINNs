@@ -6,6 +6,18 @@ This repository contains the code and results needed to reproduce the experiment
 
 ---
 
+## 📚 Table of Contents
+
+- [PINNs Architecture](#pinns-architecture)  
+- [📈 Dataset Discussion](#-dataset-discussion)  
+- [Usage](#usage)  
+- [📑 Notebook Summaries](#-notebook-summaries)  
+- [📈 Results](#-results)  
+- [References](#references)  
+- [📄 License](#-license)  
+- [👥 Authors & Acknowledgments](#-authors--acknowledgments)
+
+---
 ## **PINNs Architecture**
 
 ![PINNs Architecture](PINNs_Architecture.jpg)
